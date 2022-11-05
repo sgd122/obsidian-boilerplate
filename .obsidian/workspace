@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "b086c9bba8cb87b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e529d56033ffd890",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-10-20.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4df9342ee5df6c75",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2ed2b71a3d5bfd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa949a67a44182a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "18e565b3e271bd0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"![[./images/Pasted image 20220825092056.png]]\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4d2fe8503c41bd6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86bde14f00fb196b",
+    "type": "split",
+    "children": [
+      {
+        "id": "16d8378119318898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be4879dc535bd701",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-10-20.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc2813099c57da63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-10-20.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07c71de106f20d72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b91e1cb39774d87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-10-20.md"
+              }
+            }
+          },
+          {
+            "id": "eebbe88556530170",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ecb6bbb462742d6",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "259bd4b4cd4a55ea",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e529d56033ffd890",
+  "lastOpenFiles": [
+    "2022-10-20.md",
+    "README.md",
+    "Dashboard.md",
+    "Day Planners/Day Planner-20221020.md",
+    "Templates/template-visionBoard.md",
+    "Vision Board.md",
+    "Templates/template-weekly.md",
+    "Templates/template-dailynotes.md",
+    "Templates/template.md",
+    "2022-Weekly Review.md"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "b086c9bba8cb87b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "92dbabc3373d63e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39a9c5caa96692e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4df9342ee5df6c75",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2ed2b71a3d5bfd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa949a67a44182a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18e565b3e271bd0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"![[./images/Pasted image 20220825092056.png]]\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4d2fe8503c41bd6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86bde14f00fb196b",
+    "type": "split",
+    "children": [
+      {
+        "id": "16d8378119318898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be4879dc535bd701",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc2813099c57da63",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07c71de106f20d72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b91e1cb39774d87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "eebbe88556530170",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a51a1533b88cb95",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "39a9c5caa96692e0",
+  "lastOpenFiles": [
+    "FE-Modern-Javascript-Deep-Dive-study/Study-2022-09-21.md",
+    "Daily/2022-11-04.md",
+    "Dashboard.md",
+    "Templates/template-dailynotes.md",
+    "2022-11-05.md",
+    "Daily/2022-10-18.md",
+    "Daily/2022-10-17.md",
+    "Daily/2022-11-01.md",
+    "Daily/2022-10-06.md",
+    "README.md"
+  ]
+}
