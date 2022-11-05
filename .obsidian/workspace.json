@@ -11,8 +11,12 @@
             "id": "39a9c5caa96692e0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -144,8 +152,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "39a9c5caa96692e0",
+  "active": "aa949a67a44182a2",
   "lastOpenFiles": [
+    "Templates/template-weekly.md",
     "FE-Modern-Javascript-Deep-Dive-study/Study-2022-09-21.md",
     "Daily/2022-11-04.md",
     "Dashboard.md",
@@ -154,7 +163,6 @@
     "Daily/2022-10-18.md",
     "Daily/2022-10-17.md",
     "Daily/2022-11-01.md",
-    "Daily/2022-10-06.md",
-    "README.md"
+    "Daily/2022-10-06.md"
   ]
 }
